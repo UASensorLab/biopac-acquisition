@@ -5,6 +5,7 @@ Used with the MP160 device. The script has to be run on a device on the same net
 Originally copyrighted by Biopac. Copyright (c) 2009-2010 BIOPAC Systems, Inc. All rights reserved.
 https://www.biopac.com/product/network-data-transfer-licenses/
 
+---
 Usage:
 1. Turn on and hook up the MP160 and BioNomadix devices.
 2. Open AcqKnowledge and set up the BioNomadix.
